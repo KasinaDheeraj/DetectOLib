@@ -1,0 +1,3 @@
+rootProject.name = "DetectOLib"
+include ':app'
+include ':DetectOLibrary'

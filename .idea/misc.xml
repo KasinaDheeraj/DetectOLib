@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Dheeru/AndroidStudioProjects/DetectOLib/DetectOLibrary/src/main/res/drawable/ic_camera.xml" value="0.14895833333333333" />
+        <entry key="..\:/Users/Dheeru/AndroidStudioProjects/DetectOLib/DetectOLibrary/src/main/res/layout/activity_dolactivity.xml" value="0.1296875" />
+        <entry key="..\:/Users/Dheeru/AndroidStudioProjects/DetectOLib/DetectOLibrary/src/main/res/layout/activity_dolsearch.xml" value="0.14375" />
+        <entry key="..\:/Users/Dheeru/AndroidStudioProjects/DetectOLib/DetectOLibrary/src/main/res/layout/fragment_d_o_l_g_search.xml" value="0.14375" />
+        <entry key="..\:/Users/Dheeru/AndroidStudioProjects/DetectOLib/DetectOLibrary/src/main/res/layout/fragment_d_o_l_y_t_search.xml" value="0.1296875" />
+        <entry key="..\:/Users/Dheeru/AndroidStudioProjects/DetectOLib/app/src/main/res/layout/activity_main.xml" value="0.14375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

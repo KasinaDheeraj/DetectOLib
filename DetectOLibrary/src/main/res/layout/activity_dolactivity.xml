@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DOLActivity"
+    android:background="@color/DOLBackground">
+
+    <Button
+        android:id="@+id/DOLready"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:drawableTop="@drawable/ic_camera"
+        android:text="Ready to click?"
+        android:textSize="24sp"
+        android:textColor="#9B9C9E"
+        android:textStyle="italic"
+        style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+        app:strokeColor="@color/DOLBackground"/>
+
+</RelativeLayout>
